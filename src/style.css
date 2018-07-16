@@ -1,0 +1,10 @@
+body {
+    font-size: 14px;
+    width: 100px;
+    color: aqua;
+}
+
+.hello {
+    color: red;
+    background: url('./icon.png');
+}
